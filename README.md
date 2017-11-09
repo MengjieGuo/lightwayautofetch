@@ -1,0 +1,2 @@
+# lightwayautofetch
+lightwayautofetchdocs
